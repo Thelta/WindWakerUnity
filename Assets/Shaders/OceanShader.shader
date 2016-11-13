@@ -41,8 +41,8 @@
 			Interpolators MyVertexProgram(VertexData v)
 			{
 				Interpolators i;
-				//v.position.y += SIN2(v.position.x, _Time.y) / 2;
-				//v.position.y += SIN1(_Time.y, v.position.z) / 2	;
+				v.position.y += SIN2(v.position.x, _Time.y) / 2;
+				v.position.y += SIN1(_Time.y, v.position.z) / 2	;
 				
 
 				i.position = mul(UNITY_MATRIX_MVP, v.position);
