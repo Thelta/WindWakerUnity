@@ -4,5 +4,4 @@ This is an implementation of Wind Waker effects in Unity based on @gordonnl Wind
 series.
 
 ##The Ocean
-<iframe src='https://gfycat.com/ifr/HarshColossalCottonmouth' frameborder='0' scrolling='no' width='640' height='318' allowfullscreen></iframe>
-
+![Ripping effect](https://my.mixtape.moe/hzvsox.webm)
